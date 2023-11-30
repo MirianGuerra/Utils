@@ -147,17 +147,17 @@ espaco_pasta = tamanho_pasta(diretorio)
 espaco_livre = espaco_livre_em_disco()
 
 
-if espaco_livre > 2*espaco_pasta:
-    print('Tem espaço suficiente para a concatenação dos arquivos e encriptografa-los.\n')
-    status = 0
-elif tamanho_pasta < espaco_livre_em_disco < 2*tamanho_pasta:
-    print('Espaço em disco suficiente somente para encriptografar os arquivos.\n')
-    status = 1
+#if espaco_livre > 2*espaco_pasta:
+#    print('Tem espaço suficiente para a concatenação dos arquivos e encriptografa-los.\n')
+#    status = 0
+#elif tamanho_pasta < espaco_livre_em_disco < 2*tamanho_pasta:
+#    print('Espaço em disco suficiente somente para encriptografar os arquivos.\n')
+#    status = 1
     
-elif espaco_livre_em_disco<tamanho_pasta:
-    print('Não tem espaço em disco para a operação, finalizando o programa.\n')
-    sys.exit()
-
+#elif espaco_livre_em_disco<tamanho_pasta:
+#    print('Não tem espaço em disco para a operação, finalizando o programa.\n')
+#    sys.exit()
+status = 0
 #Criar arquivo ingestion para a pasta selecinada
 mensagem = """
 -----BEGIN CRYPT4GH PUBLIC KEY-----

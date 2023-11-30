@@ -1,0 +1,684 @@
+PlateName;File;Well;SampleName;Diagnosis;Gender;SampleType;WGA
+9SR37877;507;A01;431;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;A02;432;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;A03;350;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;A05;796;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;A06;797;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;A07;798;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;A08;800;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;A09;801;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;A11;794;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;B01;675;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37877;507;B02;802;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;B05;805;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;B06;803;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;B07;806;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;B08;812;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;B09;811;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;B10;810;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;B11;809;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;C06;766;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;C08;480;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;C09;482;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;C10;484;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37877;507;C12;478;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;D01;488;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;D02;465;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;D03;490;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;D04;492;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;D05;493;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;D07;494;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;D08;504;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;D09;495;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;D10;502;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;D11;496;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;E01;506;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;E04;500;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;E05;501;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;E07;510;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;E08;512;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;E09;508;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;E10;509;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;E11;516;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F01;515;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F02;513;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F03;519;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F04;518;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F05;517;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F06;637;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;F10;185;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F11;526;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;F12;525;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;G01;524;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;G02;523;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;G06;534;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;G07;531;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;G08;533;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;G09;535;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;G10;537;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;H01;539;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;H02;538;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;H03;543;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;H04;363;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37877;507;H05;550;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37877;507;H07;545;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;H09;554;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37877;507;H10;540;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37877;507;H12;556;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;A01;558;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;A02;559;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;A04;260;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;A05;563;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;A06;564;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;A07;566;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;A10;567;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;B04;575;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;B05;578;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;B06;568;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;B07;570;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;B08;571;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;B09;573;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;B10;576;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;B11;572;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;C01;561;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;C02;553;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;C04;583;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;C05;580;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;C06;582;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;C11;590;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;C12;593;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;D01;588;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;D02;589;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;D05;604;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;D06;598;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;D07;595;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;D08;601;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;D09;600;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;D10;603;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;D11;599;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;D12;596;COLORRETAL;male;Buff Coat - Tumor sample;No
+9SR37878;509;E01;594;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;E02;591;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;E03;614;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;E04;616;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;E05;613;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;E06;612;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;E07;615;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;E08;607;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;E09;606;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;E10;608;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;F02;619;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;F03;620;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;F04;624;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;F05;623;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;F06;621;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;F07;625;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;F08;622;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;F09;610;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;F11;632;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;F12;634;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;G01;629;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;G03;633;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;G04;631;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;G05;639;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;G06;635;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;G07;636;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;G08;640;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;G09;651;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37878;509;G10;645;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;G11;648;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37878;509;H01;654;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;H02;652;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;H03;653;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;H04;647;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;H05;649;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;H06;642;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;H07;646;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;H08;650;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37878;509;H10;661;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37878;509;H11;660;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;A01;657;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;A02;658;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;A03;655;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;A05;662;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;A06;668;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;A07;667;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;A08;672;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;A09;666;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;A10;664;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;A11;669;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;B01;671;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;B07;678;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;B08;681;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;B09;679;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;B10;687;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;B11;688;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;B12;690;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;C01;685;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;C06;697;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;C07;698;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;C08;703;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;C09;704;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;C10;705;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;C11;708;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;C12;707;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;D01;706;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;D02;716;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;D05;721;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;D06;723;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;D07;725;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;D08;727;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;D09;730;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;D10;731;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;D11;726;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;E05;737;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;E06;740;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;E07;742;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;E08;741;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;E10;739;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;F03;748;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;F04;749;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;F05;751;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;F06;746;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;F08;643;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;F10;756;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;F11;753;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;F12;758;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;G03;774;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37879;511;G04;770;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;G07;768;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37879;511;G08;780;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;G09;765;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;G10;776;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;G11;767;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;G12;771;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;H01;779;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;H02;769;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;H03;789;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;H05;791;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;H06;790;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37879;511;H07;785;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37879;511;H08;787;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;A02;286;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;A04;281;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;A05;288;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;A06;284;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;A07;283;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;A08;280;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;A09;287;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;A10;289;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;A11;290;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;B03;292;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;B04;293;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;B05;304;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;B08;462;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;B09;300;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;B10;294;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;B11;298;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;B12;469;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;C04;297;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;C05;468;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;C06;305;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;C08;309;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;C09;306;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;C10;311;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;C11;312;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;C12;314;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;D01;470;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;D02;316;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;D03;317;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;D08;323;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;D09;327;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;D10;712;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;D12;325;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;E01;326;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;E02;328;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;E03;329;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;E08;714;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;E09;348;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;E10;342;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;E11;344;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;F01;337;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;F02;339;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;F03;338;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;F04;346;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;F05;345;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;F06;336;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;F07;351;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;F08;352;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;F09;353;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;F12;355;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;G03;359;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;G05;358;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;G06;369;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37880;667;G08;372;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;G09;373;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;G10;364;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;G11;365;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;G12;366;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;H01;368;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;H02;370;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;H03;371;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37880;667;H04;236;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37880;667;H09;376;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37880;667;H11;463;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;A01;473;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;A02;390;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;A03;381;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;A05;383;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;A06;384;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;A07;380;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;A08;387;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;A09;382;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;A10;391;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;A11;388;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;B01;393;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;B05;474;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37881;668;B06;397;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;B07;400;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;B08;395;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;B09;396;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;B10;401;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;B11;398;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;B12;409;COLORRETAL;Male ;Buff Coat - Tumor sample;No
+9SR37881;668;C01;410;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;C02;414;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37881;668;C03;406;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37881;668;C04;415;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;C05;404;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;C06;405;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;C07;412;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;C12;420;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;D01;419;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;D07;445;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;D08;447;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;D09;436;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;D10;441;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;D11;446;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;D12;442;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;E01;444;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;E03;449;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;E04;448;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;E05;453;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;E06;452;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;E07;450;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;E08;455;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;E09;459;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;E10;456;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;E11;457;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;F01;458;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;F03;713;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;F04;461;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;F05;186;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;F06;192;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;F07;191;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;F08;193;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;F09;117;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;F10;118;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37881;668;F11;122;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;F12;121;CONTROLE;Male ;Buff Coat - Normal sample;No
+9SR37881;668;G01;120;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;G02;119;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;G04;181;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;G05;182;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;G06;180;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;G07;183;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;G08;187;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;G09;190;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;G10;189;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;G11;188;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;G12;195;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;H02;124;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;H03;123;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;H04;126;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;H05;125;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;H06;194;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;H08;200;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37881;668;H09;203;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37881;668;H10;199;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37881;668;H11;201;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;A01;202;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;A02;198;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;A03;205;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;A04;242;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37882;438;A05;209;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;A06;212;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;A07;211;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;A08;210;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;A09;207;CONTROLE;Male ;Buff Coat - Normal sample;No
+9SR37882;438;A11;174;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37882;438;B01;208;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;B02;169;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37882;438;B03;173;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37882;438;B04;223;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37882;438;B05;221;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;B06;219;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;B07;220;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;B08;222;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;B09;215;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;B10;218;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;B11;216;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;B12;213;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;C03;167;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37882;438;C04;226;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37882;438;C05;172;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37882;438;C08;233;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37882;438;C09;230;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;C10;234;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;C11;237;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;C12;232;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;D05;245;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;D06;246;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;D07;248;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;D08;241;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;D09;243;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;D10;249;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;D11;239;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;E01;256;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;E02;253;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;E03;252;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;E04;254;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;E09;261;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;F03;268;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;F04;270;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;F05;272;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;F09;133;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;F10;132;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;F11;271;COLORRETAL;Male ;Buff Coat - Tumor sample;No
+9SR37882;438;F12;267;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37882;438;G01;275;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;G02;136;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;G03;276;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;G04;274;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;G05;278;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;G06;137;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;G07;134;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;G08;277;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;G09;135;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;G10;279;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;G11;139;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;G12;141;CONTROLE;Male ;Buff Coat - Normal sample;No
+9SR37882;438;H01;138;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;H02;142;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;H03;140;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;H04;143;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;H05;152;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;H06;144;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;H07;148;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;H08;146;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;H09;153;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37882;438;H10;151;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37882;438;H11;150;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;A01;145;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;A02;149;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;A03;147;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;A10;235;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;B01;84;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;B02;438;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;B03;437;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;B04;86;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;B06;238;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;B08;426;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;B10;609;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;B11;424;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;B12;331;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;C02;386;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;C03;747;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;C06;89;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;C09;611;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;C10;430;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;C11;759;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;C12;433;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;D01;26;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;D02;340;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;D04;1104;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;D05;1127;COLORRETAL;Female;Buff Coat - Tumor sample ;No
+9SR37884;526 / 441;D06;1106;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;D07;1096;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;D08;1098;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;D09;1102;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;D10;1101;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;D11;1097;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;D12;1099;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;E04;1112;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;E05;1113;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;E06;1111;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;E07;1115;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;E08;1116;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;E09;1118;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;E10;1120;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;E11;1122;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F01;1121;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F02;1119;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F03;1134;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F04;1132;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F05;1129;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F06;1128;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F07;1125;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;F08;1126;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;G02;820;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;G03;821;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;G04;825;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;G05;826;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;G06;824;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;G07;828;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;G08;822;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;G11;842;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;G12;841;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;H01;839;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;H02;834;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;H03;836;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;H04;837;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;H05;840;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37884;526 / 441;H07;833;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37884;526 / 441;H10;855;CONTROLE;Male;Buff Coat - Tumor sample;No
+9SR37884;526 / 441;H11;845;CONTROLE;Male;Buff Coat - Tumor sample;No
+9SR37883;440;A01;848;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;A02;846;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;A03;854;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;A04;853;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;A05;852;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;A06;851;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;A07;849;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;A08;847;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;A11;858;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;B01;859;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;B02;861;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;B03;860;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;B04;857;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;B07;870;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;B08;867;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;B09;869;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;B10;866;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;B11;871;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;C01;872;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;C02;873;CONTROLE;MAle;Buff Coat - Normal sample;No
+9SR37883;440;C03;874;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;C04;875;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;C05;876;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;C07;879;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;C08;881;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;C09;882;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;C10;884;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;C11;883;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;D02;887;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;D03;888;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;D04;892;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;D05;889;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;D06;891;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;D07;896;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;D08;898;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;D10;900;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;D11;903;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;D12;906;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;E01;914;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;E02;911;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;E03;912;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;E04;908;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;E05;913;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;E06;905;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;E07;910;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;E08;904;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;E11;909;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37883;440;F01;907;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;F02;919;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;F03;917;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;F04;1091;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37883;440;F05;921;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37883;440;F06;923;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;F07;924;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;F08;894;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;F09;922;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;F10;926;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;F11;927;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;F12;968;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;G01;966;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;G02;970;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;G03;975;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37883;440;G05;976;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;G06;978;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;G07;982;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;G08;980;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37883;440;G09;981;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;A10;890;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37885;443;B06;989;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;B07;988;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;B08;987;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;B09;990;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;B10;996;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;B11;994;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;B12;991;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;C01;1000;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C02;1002;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C03;1004;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C04;1010;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C05;1009;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37885;443;C06;1016;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C07;1017;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C08;1018;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C10;1030;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C11;1025;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;C12;1029;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D01;1024;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D02;1023;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D03;1027;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D04;1037;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37885;443;D05;934;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D06;932;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D07;933;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D08;948;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;D09;943;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D10;940;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;D11;941;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;D12;938;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;E01;945;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;E02;957;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;E03;953;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;E04;952;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;E05;955;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;E06;958;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;E07;939;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37885;443;E09;951;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37885;443;E10;961;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37885;443;F04;1039;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;F05;1044;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;F06;1038;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;F07;1041;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;F08;1047;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;F09;1049;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;F10;1050;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;F11;1057;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;F12;1058;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;G01;1056;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;G02;1055;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;G03;1059;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;G04;1054;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;G05;1053;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;G06;1074;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;G07;1060;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;G08;1067;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;G09;1064;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;G12;1066;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;H05;1082;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37885;443;H07;1075;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;H08;1085;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;H09;1080;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37885;443;H10;1077;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37885;443;H11;1083;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;A01;1084;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;A02;1087;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;A03;1052;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;A05;1094;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;A08;1175;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;A10;1140;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;A11;1152;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B01;1151;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B02;1173;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B03;1147;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B04;1172;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B05;1145;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B06;1146;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B07;1148;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B08;1143;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B09;1144;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B10;1150;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B11;1168;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;B12;1141;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C01;1149;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C02;1159;COLORRETAL;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C03;1162;COLORRETAL;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C04;1156;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C05;1153;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C09;1178;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;C10;1180;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C11;1181;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;C12;1185;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;D03;1155;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;D08;1179;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;D09;1158;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;F02;761;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;F10;1028;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;F11;920;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;F12;979;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G01;682;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G02;986;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G03;947;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G04;1026;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G05;362;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G06;944;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G07;956;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G08;928;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G09;959;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G10;893;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G11;702;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;G12;1042;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;H01;483;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;H02;755;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37887;690 / 444;H04;542;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;H05;541;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37887;690 / 444;H06;548;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;H07;549;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37887;690 / 444;H11;557;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;A01;562;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37886;529;A03;656;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;A08;695;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;A09;720;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37886;529;A10;719;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37886;529;A11;693;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;B05;322;CONTROLE;Male;Buff Coat - Normal sample;No
+9SR37886;529;B06;324;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;B07;349;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;B09;379;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;B10;394;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;C08;231;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;D03;1045;COLORRETAL;Male;Buff Coat - Normal sample;No
+9SR37886;529;D04;974;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37886;529;D05;918;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37886;529;E04;171;COLORRETAL;Male;Buff Coat - Normal sample;No
+9SR37886;529;F05;1051;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37886;529;G11;1133;CONTROLE;Female;Buff Coat - Normal sample;No
+9SR37886;529;G12;1137;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37886;529;H01;1182;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37886;529;H06;1198;COLORRETAL;Male;Buff Coat - Tumor sample;No
+9SR37886;529;H08;1205;COLORRETAL;Female;Buff Coat - Tumor sample;No
+9SR37886;529;H09;1204;COLORRETAL;Male;Buff Coat - Tumor sample;No
